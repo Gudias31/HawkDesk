@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HawkDesk"
+
+        tools:targetApi="31"
+        tools:ignore="MissingBackupRule"
+        >
+
+        <!-- 1. ESSENCIAL: Declaração da Activity de Registro (Resolve o crash) -->
+        <activity android:name=".activities.RegisterActivity" />
+
+        <!-- 2. Activity de Login (Tela Inicial) -->
+        <activity
+            android:name=".activities.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 3. Declaração das demais Activities -->
+        <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.ProfileActivity" />
+        <activity android:name=".activities.NewTicketActivity" />
+        <activity android:name=".activities.TicketDetailActivity" />
+
+    </application>
+</manifest>

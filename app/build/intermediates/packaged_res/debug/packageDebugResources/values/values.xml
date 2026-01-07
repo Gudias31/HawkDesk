@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFC107</color>
+    <color name="background">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#DEE2E6</color>
+    <color name="gray">#ADB5BD</color>
+    <color name="gray_dark">#6C757D</color>
+    <color name="gray_light">#F8F9FA</color>
+    <color name="primary">#007BFF</color>
+    <color name="primary_dark">#0056B3</color>
+    <color name="priority_high">#FD7E14</color>
+    <color name="priority_low">#28A745</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_urgent">#DC3545</color>
+    <color name="status_closed">#343A40</color>
+    <color name="status_in_progress">#007BFF</color>
+    <color name="status_open">#28A745</color>
+    <color name="status_resolved">#6C757D</color>
+    <color name="status_waiting">#FFC107</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_comment">Adicionar Comentário</string>
+    <string name="all_tickets">Todos os Tickets</string>
+    <string name="app_name">Hawk Desk</string>
+    <string name="assigned_to">Atribuído para</string>
+    <string name="cancel">Cancelar</string>
+    <string name="category_access">Acesso</string>
+    <string name="category_hardware">Hardware</string>
+    <string name="category_network">Rede</string>
+    <string name="category_other">Outros</string>
+    <string name="category_software">Software</string>
+    <string name="comment_hint">Digite seu comentário...</string>
+    <string name="comments">Comentários</string>
+    <string name="create_ticket">Criar Ticket</string>
+    <string name="created_at">Criado em</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="email">E-mail</string>
+    <string name="error">Erro</string>
+    <string name="filter">Filtrar</string>
+    <string name="loading">Carregando...</string>
+    <string name="login">Entrar</string>
+    <string name="login_error">E-mail ou senha incorretos</string>
+    <string name="login_title">Acesso ao HawkDesk</string>
+    <string name="logout">Sair</string>
+    <string name="my_tickets">Meus Tickets</string>
+    <string name="name">Nome</string>
+    <string name="new_ticket">Novo Ticket</string>
+    <string name="no_tickets">Nenhum ticket encontrado</string>
+    <string name="password">Senha</string>
+    <string name="phone_number">Telefone (WhatsApp)</string>
+    <string name="priority_high">Alta</string>
+    <string name="priority_low">Baixa</string>
+    <string name="priority_medium">Média</string>
+    <string name="priority_urgent">Urgente</string>
+    <string name="profile">Perfil</string>
+    <string name="profile_email">Email: %1$s</string>
+    <string name="profile_name">Nome: %1$s</string>
+    <string name="profile_role">Função: %1$s</string>
+    <string name="register">Registrar</string>
+    <string name="role">Função</string>
+    <string name="role_admin">Administrador</string>
+    <string name="role_user">Usuário</string>
+    <string name="save">Salvar</string>
+    <string name="search">Pesquisar</string>
+    <string name="sort">Ordenar</string>
+    <string name="status_closed">Fechado</string>
+    <string name="status_in_progress">Em Andamento</string>
+    <string name="status_open">Aberto</string>
+    <string name="status_resolved">Resolvido</string>
+    <string name="status_waiting">Aguardando</string>
+    <string name="success">Sucesso</string>
+    <string name="ticket_category">Categoria</string>
+    <string name="ticket_created">Chamado criado com sucesso!</string>
+    <string name="ticket_description">Descrição</string>
+    <string name="ticket_details">Detalhes do Ticket</string>
+    <string name="ticket_error">Falha ao criar o chamado.</string>
+    <string name="ticket_priority">Prioridade</string>
+    <string name="ticket_title">Título</string>
+    <string name="update_status">Atualizar Status</string>
+    <string name="updated_at">Atualizado em</string>
+    <string name="user_profile">Perfil do Usuário</string>
+    <string name="whatsapp_support">Falar com Suporte (WhatsApp)</string>
+    <style name="Theme.HawkDesk" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:statusBarColor">@color/primary_dark</item>
+
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="Theme.HawkDesk.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

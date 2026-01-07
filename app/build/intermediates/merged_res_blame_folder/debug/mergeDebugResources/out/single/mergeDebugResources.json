@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_list_item_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\color_button_text_selector.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\color\\button_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_badge_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_item_ticket.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\item_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_comment_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\comment_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_activity_new_ticket.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\activity_new_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_button_outline_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\button_outline_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-debug-4:\\layout_activity_ticket_detail.xml.flat",
+        "source": "C:\\Users\\gusta\\.gradle\\daemon\\9.0-milestone-1\\com.hawkdesk.app-main-6:\\layout\\activity_ticket_detail.xml"
+    },
+    {
+        "merged": "com.hawkdesk.app-debug-4:/layout_activity_login.xml.flat",
+        "source": "com.hawkdesk.app-main-6:/layout/activity_login.xml"
+    }
+]

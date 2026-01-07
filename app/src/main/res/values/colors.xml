@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Principais Simples -->
+    <color name="primary">#007BFF</color>
+    <color name="primary_dark">#0056B3</color>
+    <color name="accent">#FFC107</color>
+    
+    <!-- Cores de Status e Prioridade (Mantidas para funcionalidade) -->
+    <color name="status_open">#28A745</color>      <!-- Verde -->
+    <color name="status_in_progress">#007BFF</color> <!-- Azul -->
+    <color name="status_waiting">#FFC107</color>    <!-- Amarelo -->
+    <color name="status_resolved">#6C757D</color>   <!-- Cinza Escuro -->
+    <color name="status_closed">#343A40</color>     <!-- Preto/Cinza Muito Escuro -->
+    
+    <color name="priority_low">#28A745</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_high">#FD7E14</color>
+    <color name="priority_urgent">#DC3545</color>
+    
+    <!-- Cores Comuns -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F8F9FA</color>
+    <color name="gray">#ADB5BD</color>
+    <color name="gray_dark">#6C757D</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="divider">#DEE2E6</color>
+    
+    <!-- Fundo -->
+    <color name="background">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+</resources>

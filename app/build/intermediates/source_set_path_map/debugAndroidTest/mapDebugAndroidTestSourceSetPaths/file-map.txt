@@ -1,0 +1,6 @@
+com.hawkdesk.app.test.app-androidTest-0 C:\HawkDesk\app\build\generated\res\resValues\androidTest\debug
+com.hawkdesk.app.test.app-mergeDebugAndroidTestResources-1 C:\HawkDesk\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hawkdesk.app.test.app-mergeDebugAndroidTestResources-2 C:\HawkDesk\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hawkdesk.app.test.app-debugAndroidTest-3 C:\HawkDesk\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.hawkdesk.app.test.app-jetified-annotation-experimental-1.4.0-4 C:\Users\gusta\.gradle\caches\9.0-milestone-1\transforms\1703cfc22df8b7855b8b13df4cb36802\transformed\jetified-annotation-experimental-1.4.0\res
+com.hawkdesk.app.test.app-jetified-core-1.5.0-5 C:\Users\gusta\.gradle\caches\9.0-milestone-1\transforms\f13977b859d381f2ecbff1a3f2cb3f9e\transformed\jetified-core-1.5.0\res

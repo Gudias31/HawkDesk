@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Detalhes do Perfil"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"
+        android:layout_marginBottom="32dp" />
+
+    <!-- 1. Campo Nome -->
+    <TextView
+        android:id="@+id/userNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nome: Carregando..."
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:background="@drawable/edittext_background"
+        android:layout_marginBottom="8dp" />
+
+    <!-- 2. Campo Email -->
+    <TextView
+        android:id="@+id/userEmailTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email: Carregando..."
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:background="@drawable/edittext_background"
+        android:layout_marginBottom="8dp" />
+
+    <!-- 3. Campo Função/Role -->
+    <TextView
+        android:id="@+id/userRoleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Função: Carregando..."
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:background="@drawable/edittext_background"
+        android:layout_marginBottom="32dp" />
+
+    <!-- 4. Botão Logout -->
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sair da Conta (Logout)"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:background="@color/priority_urgent"
+        android:textColor="@color/white" />
+
+</LinearLayout>

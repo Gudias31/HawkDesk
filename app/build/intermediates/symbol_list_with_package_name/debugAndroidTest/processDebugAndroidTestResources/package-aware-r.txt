@@ -1,0 +1,3 @@
+com.hawkdesk.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
